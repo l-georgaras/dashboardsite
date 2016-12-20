@@ -5,11 +5,14 @@
 @import "components/mixins";
 @import "components/color";
 
+
 // Variables;
 @import "components/variables";
 
 // Reset
 @import "components/normalize";
+
+@import "components/styles";
 
 // components
 @import "components/global";
