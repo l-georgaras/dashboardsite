@@ -59,6 +59,12 @@ layout: default
 				<td>41.17</td>
 				<td>22.17</td>
 				<td>+35.00%</td>
+				<td>
+					<div class="col s12">
+						<a class=""><i class="tiny material-icons">mode_edit</i></a>
+					    <a class=""><i class="tiny material-icons">delete</i></a>
+					</div>
+				</td>
 			</tr>
 			<tr>
 				<td>
@@ -73,6 +79,12 @@ layout: default
 				<td>41.17</td>
 				<td>22.17</td>
 				<td>+35.00%</td>
+				<td>
+					<div class="col s12">
+						<a class=""><i class="tiny material-icons">mode_edit</i></a>
+					    <a class=""><i class="tiny material-icons">delete</i></a>
+					</div>
+				</td>
 			</tr>
 			<tr>
 				<td>
@@ -107,6 +119,12 @@ layout: default
 				<td>41.17</td>
 				<td>22.17</td>
 				<td>+35.00%</td>
+				<td>
+					<div class="col s12">
+						<a class=""><i class="tiny material-icons">mode_edit</i></a>
+					    <a class=""><i class="tiny material-icons">delete</i></a>
+					</div>
+				</td>
 			</tr>
 		</tbody>			
 	  </table>
