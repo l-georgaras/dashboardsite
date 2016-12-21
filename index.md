@@ -6,17 +6,6 @@ layout: default
 ---
 
 <div class="col s12">
-	<div class="row">
-	    <div class="col s8">
-	      <ul class="tabs">
-	        <li class="tab col s5"><a href="#test1"><h5>Consumption</h5></a></li>
-	       	<li class="tab col s5"><a href="#test1"><h5>User Statistics</h5></a></li>
-	      </ul>
-	    </div>
-	    <div class="col s4">
-		    
-	    </div>
-	 </div>
 	 <div class="row">
 	 	<div class="input-field col s3">
 	        <input id="date_from" type="text">
@@ -27,10 +16,17 @@ layout: default
 	        <label for="date_to" class="">date to</label>
 	    </div>
 	    <div class="input-field col s6">
-	       
-		          <input id="search" type="search" required>
-		          <label for="search"><i class="material-icons">search</i></label>
-		          <i class="material-icons">close</i>
+	          <input id="search" type="search" required>
+	          <label for="search"><i class="material-icons">search</i></label>
+	          <i class="material-icons">close</i>
+	    </div>
+	 </div>
+	 <div class="row">
+	    <div class="col s8">
+	      <ul class="tabs">
+	        <li class="tab col s5"><a href="#test1"><h5>Consumption</h5></a></li>
+	       	<li class="tab col s5"><a href="#test1"><h5>User Statistics</h5></a></li>
+	      </ul>
 	    </div>
 	 </div>
 	  <div class="col s12"><img width="100%" src="images/dash.png"></div>
