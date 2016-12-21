@@ -14,17 +14,25 @@ layout: default
 	      </ul>
 	    </div>
 	    <div class="col s4">
-		    <div class="nav-wrapper">
-		      <form>
-		        <div class="input-field">
+		    
+	    </div>
+	 </div>
+	 <div class="row">
+	 	<div class="input-field col s3">
+	        <input id="date_from" type="text">
+	        <label for="date_from" class="">date from</label>
+	    </div>
+	    <div class="input-field col s3">
+	        <input id="date_to" type="text">
+	        <label for="date_to" class="">date to</label>
+	    </div>
+	    <div class="input-field col s6">
+	       
 		          <input id="search" type="search" required>
 		          <label for="search"><i class="material-icons">search</i></label>
 		          <i class="material-icons">close</i>
-		        </div>
-		      </form>
-		    </div>
 	    </div>
-	  </div>
+	 </div>
 	  <div class="col s12"><img width="100%" src="images/dash.png"></div>
 	<table class="highlight responsive-table">
 		<thead>
